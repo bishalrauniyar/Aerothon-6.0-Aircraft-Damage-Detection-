@@ -16,7 +16,8 @@ def predict_image(image):
 
 st.image('bgimage.png')
 st.subheader('By Team8848(Aerothon6.0)')
-st.title('Airplane Dents And Damage Detection')
+st.title('CNN Based Model')
+st.subheader('Airplane Dents And Damage Detection')
 st.write("Here, we have used the dataset mentioned in problem statement 2, where 4169 images is used, to train our model. This model can analyze dents, cracks, or both in different parts of the airplane.")
 
 
